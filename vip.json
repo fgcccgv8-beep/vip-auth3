@@ -1,6 +1,9 @@
-"vip_users": [
+{
+  "vip_users": [
     "test_user_1",
     "wallet_address_abc123",
     "your_solana_wallet_here"
-    "y1"
-    "y2"
+  ],
+  "api_key": "72ead343-911d-4753-84a9-f516f3792fb2"
+}
+
